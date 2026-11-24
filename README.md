@@ -1,6 +1,7 @@
 <html>
 <body>
-<h1>Cant code?<em>You just did</h1>
-<h2>Its pretty easy once you get the hang of it</h2>
+<h1>MY VIRTUAL WEBSITE</h1>
+<h2>Ts probably gonna flop but oh well its a start</h2>
+<h3>and look i just did it lmaooo</h3>
 <body>
 <html>
